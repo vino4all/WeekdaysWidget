@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeekdaysWidget">
+        <attr name="editable" format="boolean" />
+        <attr name="highlight_color" format="color" />
+    </declare-styleable>
+</resources>
